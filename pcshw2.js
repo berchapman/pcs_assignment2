@@ -6,3 +6,5 @@ for (var i = myString.length - 1; i > -1; --i) {
 		output = output + myString[i]
 	}
 }
+
+console.log(output)
